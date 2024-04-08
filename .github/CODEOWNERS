@@ -1,0 +1,11 @@
+# Default owners for everything in the repo. Unless a later match takes precedence,
+
+@atea/ops-github
+
+# Add more specified codeowners below this line
+
+
+# Don't add below this line as order is important and the last matching pattern takes precedence
+
+# Protect the CODEOWNERS file from accidents
+/.github/CODEOWNERS @atea/ops-github
