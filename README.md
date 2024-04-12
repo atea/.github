@@ -1,3 +1,3 @@
-# GitHub in Atea
+# GitHub in Atea - Shared policies, templates and workflows
 
-Visit https://atea.github.io for more information
+Collection of shared policies, templates and workflows used in Atea
